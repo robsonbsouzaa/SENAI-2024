@@ -166,7 +166,7 @@ Um Data Warehouse (ou armazém de dados, em português) é um sistema de armazen
 	- 1.1.3. Web: Serviçe (Relatórios e painéis do Power BI criados no Power BI Desktop podem ser publicados no Power BI Service, que é uma plataforma baseada na nuvem. Isso possibilita a colaboração e o compartilhamento de relatórios com colegas e clientes.)
 - 1.2. Definição
 	- 1.2.1. Análise de dados
-	- 1.2.2. Self Service BI
+	- 1.2.2. Self Service BI 
 	- 1.2.3. ETL (Extract, Transform e Load)
 	- 1.2.4. Data Warehouse
 	- 1.2.5. Big Data

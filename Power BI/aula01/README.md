@@ -11,7 +11,7 @@ Ferramenta de análise de Dados
 # Prática
 - Baixar e instalar o Power BI
 - Detalhes básicos da ferramenta, componentes da tela.
-- Importar e tratar os dados de um arquivo CSV (./pedidos.csv)
+- Importar e tratar os dados de um arquivo CSV (./bd_vendas.xlsx)
 
 ## Conhecimentos
 

@@ -13,7 +13,7 @@
 
 
 | 
-## Atividade 02       |
+<!-- ## Atividade 02       |
 | 
 Realizaer a criação da Dashboard abaixo seguindo as informações da planilha BD_logistica, faça uma analise das informações e crie uma dashboard utilizando as informações como na imagem
 ![Alt text](image.png)--------------------------------------------------------------------------------------- |
@@ -28,13 +28,9 @@ Realizaer a criação da Dashboard abaixo seguindo as informações da planilha 
 
 | Entregas:                                                            |
 | -------------------------------------------------------------------- |
-| Apresente ao professor os dois arquivos com as análises solicitadas. |
+| Apresente ao professor os dois arquivos com as análises solicitadas. | -->
 
-## Situação Problema - 02:
 
-| Contextualização                                                                                                                                                                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| O líder do setor de manutenção da empresa XPTO onde você é colaborador utiliza um sistema que gerou os dados do mês de outubro de 2023 das Ordens de Serviços executadas, ele precisa de sua ajuda para vizualisar em forma gráfica o desempenho do setor de manutenção |
 
 | Desafio                                                                                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -53,10 +49,4 @@ Realizaer a criação da Dashboard abaixo seguindo as informações da planilha 
 | -------------------------------------------------------------------- |
 | Apresente ao professor o arquivo com as análises solicitadas. |
 
-# Publicar
-
-Necessáro estar logado/conectado com email corporativo, ao publicar podemso compartilhar para que outros vejam através da Web ou App.
-
-# Importar Vizualizações
-
-Necessáro estar logado/conectado com email corporativo, podemos obter mais visuais como a tabela de imagens
+#

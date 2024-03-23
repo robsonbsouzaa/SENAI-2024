@@ -13,11 +13,11 @@
 
 
 | 
-<!-- ## Atividade 02       |
+## Atividade 02       |
 | 
 Realizaer a criação da Dashboard abaixo seguindo as informações da planilha BD_logistica, faça uma analise das informações e crie uma dashboard utilizando as informações como na imagem
 ![Alt text](image.png)--------------------------------------------------------------------------------------- |
-| Os dados não estão em nenhuma estrutura como CSV ou semiestrutura como XML ou JSON, são apenas arquivos TXT presentes na pasta ./naoestruturados |
+<!-- | Os dados não estão em nenhuma estrutura como CSV ou semiestrutura como XML ou JSON, são apenas arquivos TXT presentes na pasta ./naoestruturados |
 | Baixe ou importe diretamente da Web os dados da subpasta **./naoestruturados/clientes**                                                          |
 | A) Transforme os dados com Power Query e faça análise com um dashboard, conforme modelo a seguir:                                                |
 | ![paises](./paises.png)                                                                                                                          |
@@ -28,8 +28,8 @@ Realizaer a criação da Dashboard abaixo seguindo as informações da planilha 
 
 | Entregas:                                                            |
 | -------------------------------------------------------------------- |
-| Apresente ao professor os dois arquivos com as análises solicitadas. | -->
-
+| Apresente ao professor os dois arquivos com as análises solicitadas. |
+ -->
 
 
 | Desafio                                                                                                                      |

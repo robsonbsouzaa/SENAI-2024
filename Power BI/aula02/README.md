@@ -3,7 +3,7 @@
 - Dados não estruturados Excel
 - Dados estruturados CSV
 
-# Atividade 01
+# Atividade 02
 ## Extração
 - Fazer download da planilha **venda_carros.xlsx** que está em ./concessionaria_xls, e do arquivo **fundo.png** na pasta ./ilustracoes
 - Vamos abrir o Power BI, clicar em obter dados >> Pasta de trabalho do excel

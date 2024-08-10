@@ -6,6 +6,8 @@
 # Atividade 01
 
 Arquvo na pasta "Arquivo 1"
+![image](https://github.com/user-attachments/assets/e4d9441b-2358-4c34-8f22-844aae932218)
+
 
 
 # Atividade 02

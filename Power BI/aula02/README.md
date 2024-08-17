@@ -1,4 +1,4 @@
-https://meet.google.com/zsi-pfmf-gkz
+https://meet.google.com/cka-axti-ugz
 
 # Aula02 - DashBoard
 ## Visualizações com diversas fontes de dados

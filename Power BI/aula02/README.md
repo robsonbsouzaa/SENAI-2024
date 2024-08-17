@@ -1,3 +1,5 @@
+https://meet.google.com/zsi-pfmf-gkz
+
 # Aula02 - DashBoard
 ## Visualizações com diversas fontes de dados
 - Dados não estruturados Excel

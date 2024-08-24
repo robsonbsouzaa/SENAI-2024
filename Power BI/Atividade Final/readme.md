@@ -20,3 +20,5 @@ Desenvolver um Dashboard utilizando a planilha BD_logistica, faça uma analise d
 
 ### https://forms.gle/2dhgRhCJmZ5pUDQT8
 
+
+

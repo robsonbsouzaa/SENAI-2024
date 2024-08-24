@@ -16,4 +16,7 @@ Desenvolver um Dashboard utilizando a planilha BD_logistica, faça uma analise d
  - Aplicar a imagem de fundo no dashboard e toda as configurações de Cores
 
 
-### Ao terminar mostrar a atividade finalizada ao professor
+### Ao terminar mostrar a atividade finalizada ao professor e enviar no link:
+
+### https://forms.gle/2dhgRhCJmZ5pUDQT8
+

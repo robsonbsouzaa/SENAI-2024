@@ -1,3 +1,7 @@
+<div align = "center">
+ <img src="https://github.com/user-attachments/assets/c1296e23-2167-469c-838f-d0b1ed5f52f8">
+</div>
+
 # Atividade Final
 
 Desenvolver um Dashboard utilizando a planilha BD_logistica, faça uma analise das informações e crie uma dashboard utilizando as informações como na imagem

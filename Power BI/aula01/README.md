@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/pxh-tpcc-rec
+https://meet.google.com/zxq-onph-bsb
 
 # Formulario para envio da atividade
 

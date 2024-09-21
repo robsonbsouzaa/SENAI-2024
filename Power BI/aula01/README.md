@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/ujv-fikg-pjg
+https://meet.google.com/qch-poic-uqx
 
 # Formulario para envio da atividade
 

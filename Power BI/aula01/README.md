@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/wbr-eokq-nbj
+https://meet.google.com/jmj-bftc-cwm
 
 # Formulario para envio da atividade
 

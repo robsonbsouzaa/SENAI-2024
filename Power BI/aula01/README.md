@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/ncs-mpfm-een
+https://meet.google.com/ayk-chgi-tsu
 
 # Formulario para envio da atividade
 

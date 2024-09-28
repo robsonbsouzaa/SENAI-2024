@@ -1,6 +1,6 @@
 # Aula01 - Introdução
 
-https://meet.google.com/jmj-bftc-cwm
+https://meet.google.com/ncs-mpfm-een
 
 # Formulario para envio da atividade
 

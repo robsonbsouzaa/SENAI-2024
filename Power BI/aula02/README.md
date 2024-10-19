@@ -78,3 +78,6 @@ O Power View é uma ferramenta de visualização de dados interativa que faz par
 Ele oferece uma variedade de tipos de visualizações, como gráficos, tabelas dinâmicas, mapas e segmentações, que podem ser conectados dinamicamente para explorar diferentes aspectos dos dados.
 O Power View é particularmente útil para criar relatórios que permitem aos usuários explorar dados e descobrir insights por conta própria.
 Em resumo, essas ferramentas e conceitos estão interconectados e desempenham papéis complementares na criação de modelos de dados robustos e na apresentação de informações de maneira eficaz. O Power Query ajuda a preparar os dados, o Power Pivot permite a criação de modelos de dados, o relacionamento de tabelas une os dados e o Power View facilita a criação de visualizações interativas para comunicar os insights derivados desses dados. Tudo isso faz parte do ecossistema do Microsoft Power BI, que é amplamente utilizado para análise de dados e geração de relatórios.
+
+# Envio da Atividade
+Link formulário: https://forms.gle/TiVUvJrMAQBXpQ3m6

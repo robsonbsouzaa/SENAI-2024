@@ -1,5 +1,7 @@
 # Aula04 - Relacionamentos
 
+## Link Meet: https://meet.google.com/zvy-drdi-xsg
+
 # Relacionamentos no Power BI
 
 Este guia apresenta uma visão geral sobre como criar e gerenciar relacionamentos entre tabelas no Power BI, um recurso essencial para desenvolver relatórios dinâmicos e interativos. Aprender a configurar relacionamentos corretamente é fundamental para garantir que suas visualizações e métricas reflitam os dados com precisão.

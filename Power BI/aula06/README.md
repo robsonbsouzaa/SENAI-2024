@@ -24,6 +24,7 @@
 | Importe os dados do arquivo **Base_vendas.xlsx**                                                            
 | Transforme os dados com Power Query                                                                                          
 | Faça os relacionamento de tabelas 
+| O template da dashboard é o arquivo **Background.jpg**
 
 ## **Fómulas**
 

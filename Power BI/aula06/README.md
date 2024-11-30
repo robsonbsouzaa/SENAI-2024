@@ -27,8 +27,8 @@
 
 
 | **Fómulas**                                                                                                                  |
-| **Tabela**   | **Nome**  | **Fórmula**                                                                                       |
-| Lojas    | Preço Medio pro Venda  | DIVIDE([Receita],[Qtd Vendida])                                                          
+| **Tabela**   || **Nome**  || **Fórmula**                                                                                       |
+| Lojas    || Preço Medio pro Venda  || DIVIDE([Receita],[Qtd Vendida])                                                          
 | Lojas    | Receita |SUM(Vendas[Valor Total])                                                                                 
 | Vendas   | Qtd Vendida |SUM(Vendas[Quantidade])                                                                              
 | Entregas:                                                            |

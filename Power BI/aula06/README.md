@@ -38,6 +38,7 @@
 
 | Entregas:                                                            |
 | -------------------------------------------------------------------- |
-| Apresente ao professor o arquivo com as análises solicitadas. |
+| Apresente ao professor o arquivo com as análises solicitadas. 
+| Enviar atividades no link: https://forms.gle/aaKfHPCBXHwmsi9Z8 
 
 #

@@ -25,9 +25,9 @@
 | Transforme os dados com Power Query                                                                                          
 | Faça os relacionamento de tabelas 
 
+## **Fómulas**
 
-| **Fómulas**|
-|--------------|-----------|------------------|
+
 | **Tabela**   | **Nome**  |**Fórmula**       |
 |--------------|-----------|------------------|
 | Lojas    | Preço Medio pro Venda  | DIVIDE([Receita],[Qtd Vendida])                                                          

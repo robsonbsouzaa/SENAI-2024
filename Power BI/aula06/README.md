@@ -26,12 +26,15 @@
 | Faça os relacionamento de tabelas 
 
 
-| **Fómulas**                                                                                                                  |
+| **Fómulas**|
+|---------------------------------------------|
 | **Tabela**   | **Nome**  |**Fórmula**       |
 |--------------|-----------|------------------|
 | Lojas    | Preço Medio pro Venda  | DIVIDE([Receita],[Qtd Vendida])                                                          
 | Lojas    | Receita |SUM(Vendas[Valor Total])                                                                                 
-| Vendas   | Qtd Vendida |SUM(Vendas[Quantidade])                                                                              
+| Vendas   | Qtd Vendida |SUM(Vendas[Quantidade])
+
+
 | Entregas:                                                            |
 | -------------------------------------------------------------------- |
 | Apresente ao professor o arquivo com as análises solicitadas. |
